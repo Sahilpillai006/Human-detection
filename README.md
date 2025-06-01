@@ -64,11 +64,4 @@ python drone_human_detection.py
 
 Created for a post-disaster drone project to locate and recognize people in hazardous environments.
 
----
 
-Feel free to contribute or report issues.
-
-```
-
-Want me to help you tweak it for your repo’s style or add badges, license info, or anything else?
-```
