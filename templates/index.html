@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Webcam Stream</title>
+  <style>
+    /* Center the video horizontally and vertically */
+    .video-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    h1 {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Webcam Stream</h1>
+  <div class="video-container">
+    <!-- Flask dynamically inserts the video feed here -->
+    <img src="{{ url_for('video_feed') }}" width="80%">
+  </div>
+</body>
+</html>
