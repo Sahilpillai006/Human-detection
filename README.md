@@ -139,12 +139,12 @@ project/
 
 ## 🧑‍💻 Author
 
-# Sahil
-Engineer | Robotics & AI Enthusiast
--------------------------------------
+**Sahil B Pillai**  
+Engineer | Robotics & AI Enthusiast  
 
-## License
+---
+
+## 📄 License
 
 This project is open-source and available under the MIT License.
-
 
